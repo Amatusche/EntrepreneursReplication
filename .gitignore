@@ -1,0 +1,96 @@
+/Code/Model/temp/
+/Code/Model/out/
+/Code/Data/temp/
+/Code/Data/in/
+
+
+## MAC FILES
+.DS_Store
+.project
+
+## Excel files
+*.csv
+*.xls
+*.xlsx
+
+## MATLAB FILES
+*.asv
+*.mat
+*.m~
+*.fig
+
+## LATEX FILES
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+## Intermediate documents:
+*.dvi
+*.xdv
+*-converted-to.*
+# these rules might exclude image files for figures etc.
+# *.ps
+# *.eps
+# *.pdf
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+*.bib.bak
+*.bib.sav
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+## Build tool directories for auxiliary files
+# latexrun
+latex.out/
+
+## amsthm
+*.thm
+
+## Beamer
+*.nav
+*.pre
+*.snm
+*.vrb
+
+## Other
+*.soc
+*.dat
+# *.sh
+*.zip
+*.gz
+*.pb.gz
+Code/Model/Saved/
+
+*.mexw64
+*.maxmaci64
+
+
+*.tmp
+*.png
+
+
+*.jld2
+
+Code/Model/src/.vscode/
